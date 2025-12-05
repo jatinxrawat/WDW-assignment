@@ -1,1 +1,1 @@
-# WDW-assignment
+This project is built using basic HTML and CSS. It includes a pricing table containing three plans: Basic, Standard, and Premium. Each plan displays its price and related features using simple list items and buttons.
